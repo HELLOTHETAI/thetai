@@ -1,3 +1,10 @@
+---
+layout: default
+title: NLP Tool
+parent: NLP
+nav_order: 1
+---
+
 # NLP Tool
 ## Label Tool
 1. **Name**: Chinese-Annotator  
