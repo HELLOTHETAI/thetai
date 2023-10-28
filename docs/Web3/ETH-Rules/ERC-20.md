@@ -1,3 +1,10 @@
+---
+layout: default
+title: ERC-20
+parent: WEB3
+nav_order: 2
+---
+
 # ERC-20
 A standard interface for tokens. [reference](https://eips.ethereum.org/EIPS/eip-20)  
 ## Interface:

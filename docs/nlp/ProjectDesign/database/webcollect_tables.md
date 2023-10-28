@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tables
+parent: NLP
+nav_order: 3
+---
+
 ## original_content
 | field | type |
 | ------| -----|

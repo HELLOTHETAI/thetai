@@ -1,3 +1,10 @@
+---
+layout: default
+title: Text-Similarity
+parent: NLP
+nav_order: 2
+---
+
 # Text-Similarity
 Text-Similarity can divide into two part:  Representation and Calculate Similarity.
 
