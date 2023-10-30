@@ -4,6 +4,8 @@ layout: home
 nav_order: 1
 ---
 
+# Welcome
+
 Unlock a world of comprehensive Environmental, Social, and Governance (ESG) insights through our user-friendly API platform.
 
 Discover a wealth of ESG data assets that delve into sustainable risk incidents, carbon markets, and various other dimensions of ESG performance. Our current categories include:
