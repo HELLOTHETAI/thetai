@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ESG-related Controversial Event Information
+title: Sustainable Risk Incident Insights
 nav_order: 2
 has_children: true
 permalink: /docs/esg-related_controversial_event_information
