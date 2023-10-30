@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Unlock a world of comprehensive Environmental, Social, and Governance (ESG) insights through our user-friendly API platform.
