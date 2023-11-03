@@ -13,6 +13,7 @@ parent: Sustainable Risk Incident Insights
 > Description: Retrieving data on controversy events in the Southeast Asia region
 
 #### Output Parameters
+
 |Name|Type|Default Shown| Description|
 |:---|:---|:---|:---|
 |`incident_id`|`string`|`True`|Unique identifier for the incident|
