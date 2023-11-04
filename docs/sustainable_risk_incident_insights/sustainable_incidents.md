@@ -10,7 +10,7 @@ parent: Sustainable Risk Incident Insights
 ---
 
 **Interface Name:** latest_controversy_events  
-**Description:** Retrieving data on controversy events in the Southeast Asia region
+**Description:** Retrieving data on controversial events related to ESG
 
 **Output Parameters**
 
