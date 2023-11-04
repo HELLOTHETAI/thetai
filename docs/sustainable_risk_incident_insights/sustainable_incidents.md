@@ -25,18 +25,9 @@ Description: Retrieving data on controversy events in the Southeast Asia region
 |esg_impact_factors|string|True|ESG impact factors of the incident|
 
 #### Sample Data
-<style>
-.foo table {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width: 100%;
-  border: 1px solid #ddd;
-}
-</style>
 
-<div class="foo">
 
-| Incident ID | Incident Name | Company Affiliation | Date of Occurrence | Occurrence Location | Description of Incident | ESG Impact Factors  |
+| Incident ID | <span style="display: inline-block; width:200px">Incident Name <span> | Company Affiliation | Date of Occurrence | Occurrence Location | Description of Incident | ESG Impact Factors  |
 |:---|:---|:---|:---|:---|:---|:---|
 |1|The Volkswagen Diesel Emissions Scandal and Accountability|Audi,Justice Department,Environmental Enforcement Section,Volkswagen,CARB,Environmental Protection Agency,SEC,California Air Resources Board,Air Enforcement Division,EPA| July, 2019 |United States,Germany|Volkswagen engaged in a massive fraud with dire consequences for the company and its stakeholders alike. Its corporate culture facilitated both the conception and perpetuation of the charade. It remains an open question, however, whether Volkswagen’s auditors and lawyers might have missed opportunities to prevent the scandal.|Bribery & Fraud|
 |2|Wells Fargo Forced To Pay $3 Billion For The Bank’s Fake Account Scandal|Wells Fargo,SEC,U.S. Department of Justice,DOJ,Securities and Exchange Commission| May 23, 2020 |United States,U.S.,Western District of North Carolina|Wells Fargo, the fourth largest bank in the United States, agreed on Friday to pay $3 billion to settle its long-running civil and criminal probes. The San Francisco-based bank announced that it will pay the substantial financial penalty to both the U.S. Department of Justice and the Securities and Exchange Commission. Roughly $500 million of the fine will be allocated to the SEC.|Impact on Local Communities|
@@ -49,7 +40,6 @@ Description: Retrieving data on controversy events in the Southeast Asia region
 |9|Exxon minimized climate change internally after conceding that fossil fuels cause it|The Wall Street Journal,Corporate Research on Greenhouse,Journal,Ex,Exxon,Center for Climate Integrity,R&D,ExxonMobil| September 15, 2023 |New York|Exxon raised doubts internally about the dangers of climate change, a report says. The Wall Street Journal cites internal company documents that were part of a lawsuit. Exxon, along with other oil and gas companies, is a defendant in multiple lawsuits.|Energy & Climate Change,Impact on Local Communities,Controversial Investments,Governance Structures|
 |10|Nike Sweatshop Scandal|Nike|  |Taiwan,Vietnam,Barcelona,Indonesia,Japan,China,South Korea|Nike was accused of using sweatshops to make activewear and shoes. The company eventually took measures to improve the working conditions of employees in its factories. This has allowed it to regain public trust and become a leading brand in the sportswear sector.|Anticompetitive Practices,Governance Structures,Customer Relations,Collective Bargaining & Unions,Civil Liberties,Impact on Local Communities,Health & Safety,Human Rights Concerns,Product Safety & Quality,Labor Management Relations,Supply Chain Management,Child Labor,Supply Chain Labor Standards,Marketing & Advertising|
 
-</div>
 
 
 
