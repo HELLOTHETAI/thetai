@@ -9,7 +9,7 @@ parent: Sustainable Risk Incident Insights
 # Sustainable Incidents
 ---
 
-**Interface Name:** latest_controversy_events
+**Interface Name:** latest_controversy_events  
 **Description:** Retrieving data on controversy events in the Southeast Asia region
 
 **Output Parameters**
