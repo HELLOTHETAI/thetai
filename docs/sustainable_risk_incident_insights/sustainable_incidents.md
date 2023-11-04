@@ -9,22 +9,23 @@ parent: Sustainable Risk Incident Insights
 # Sustainable Incidents
 ---
 
-### Interface Name: latest controversy events
-Description: Retrieving data on controversy events in the Southeast Asia region
+**Interface Name:** latest_controversy_events
+**Description:** Retrieving data on controversy events in the Southeast Asia region
 
-### Output Parameters
+**Output Parameters**
 
-|Name|Type|Default Shown| Description|
-|:---|:---|:---|:---|
-|incident_id|string|True|Unique identifier for the incident|
-|incident_name|string|True|Name of the incident|
-|company_affiliation|string|True|Companies involved in the incident|
-|date_of_occurrence|string|True|Date of occurrence of the incident|
-|occurrence_location|string|True|Location of occurrence of the incident|
-|description_of_incident|string|True|Description of the incident|
-|esg_impact_factors|string|True|ESG impact factors of the incident|
+|Name|Type| Description|
+|:---|:---|:---|
+|incident_id|string|Unique identifier for the incident|
+|incident_name|string|Name of the incident|
+|company_affiliation|string|Companies involved in the incident|
+|date_of_occurrence|string|Date of occurrence of the incident|
+|occurrence_location|string|Location of occurrence of the incident|
+|description_of_incident|string|Description of the incident|
+|esg_impact_factors|string|ESG impact factors of the incident|
 
-### Sample Data
+
+**Sample Data**
 
 | Incident ID | <span style="display: inline-block; width:200px">Incident Name </span> | Company Affiliation | Date of Occurrence | Occurrence Location | <span style="display: inline-block; width:300px">Description of Incident </span>| <span style="display: inline-block; width:300px">ESG Impact Factors </span> |
 |:---|:---|:---|:---|:---|:---|:---|
