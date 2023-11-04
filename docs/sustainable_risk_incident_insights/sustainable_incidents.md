@@ -12,7 +12,7 @@ parent: Sustainable Risk Incident Insights
 ### Interface Name: latest controversy events
 Description: Retrieving data on controversy events in the Southeast Asia region
 
-#### Output Parameters
+### Output Parameters
 
 |Name|Type|Default Shown| Description|
 |:---|:---|:---|:---|
@@ -24,10 +24,9 @@ Description: Retrieving data on controversy events in the Southeast Asia region
 |description_of_incident|string|True|Description of the incident|
 |esg_impact_factors|string|True|ESG impact factors of the incident|
 
-#### Sample Data
+### Sample Data
 
-
-| Incident ID | <span style="display: inline-block; width:200px">Incident Name </span> | Company Affiliation | Date of Occurrence | Occurrence Location | <span style="display: inline-block; width:200px">Description of Incident </span>| <span style="display: inline-block; width:300px">ESG Impact Factors </span> |
+| Incident ID | <span style="display: inline-block; width:200px">Incident Name </span> | Company Affiliation | Date of Occurrence | Occurrence Location | <span style="display: inline-block; width:300px">Description of Incident </span>| <span style="display: inline-block; width:300px">ESG Impact Factors </span> |
 |:---|:---|:---|:---|:---|:---|:---|
 |1|The Volkswagen Diesel Emissions Scandal and Accountability|Audi,Justice Department,Environmental Enforcement Section,Volkswagen,CARB,Environmental Protection Agency,SEC,California Air Resources Board,Air Enforcement Division,EPA| July, 2019 |United States,Germany|Volkswagen engaged in a massive fraud with dire consequences for the company and its stakeholders alike. Its corporate culture facilitated both the conception and perpetuation of the charade. It remains an open question, however, whether Volkswagen’s auditors and lawyers might have missed opportunities to prevent the scandal.|Bribery & Fraud|
 |2|Wells Fargo Forced To Pay $3 Billion For The Bank’s Fake Account Scandal|Wells Fargo,SEC,U.S. Department of Justice,DOJ,Securities and Exchange Commission| May 23, 2020 |United States,U.S.,Western District of North Carolina|Wells Fargo, the fourth largest bank in the United States, agreed on Friday to pay $3 billion to settle its long-running civil and criminal probes. The San Francisco-based bank announced that it will pay the substantial financial penalty to both the U.S. Department of Justice and the Securities and Exchange Commission. Roughly $500 million of the fine will be allocated to the SEC.|Impact on Local Communities|
