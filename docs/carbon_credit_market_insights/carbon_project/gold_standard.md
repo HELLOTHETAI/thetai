@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gold Standard
-nav_order: 1
+nav_order: 2
 parent: Carbon Project (碳项目)
 grand_parent: Carbon Credit Market Insights
 ---
@@ -9,7 +9,7 @@ grand_parent: Carbon Credit Market Insights
 # Carbon Project (Gold Standard)
 ---
 
-**Interface Name:** getGold StandardRegisteredProject
+**Interface Name:** getGoldStandardRegisteredProject
 
 **Description:** Get the detailed information of carbon projects registered in Gold Standard registry
 
