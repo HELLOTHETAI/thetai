@@ -34,7 +34,7 @@ grand_parent: Carbon Credit Market Insights
 
 **Sample Data**
 
-| Project ID | Project Name | Project Type | Country | Location | Project Status | Current Registry | Methodology | Developer | Credits Issued to Project | Total Retired | ARB Project Status | Corsia Qualified | BeZero Carbon Rating |
+| Project ID | <span style="display: inline-block; width:150px">Project Name</span> | Project Type | Country | Location | Project Status | Current Registry | Methodology | Developer | Credits Issued to Project | Total Retired | ARB Project Status | Corsia Qualified | BeZero Carbon Rating |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ACR588 | Anew - Big Six Forestry Project | Forest Carbon | UNITED STATES OF AMERICA | Northern Maine | Registered | American Carbon Registry | Improved Forest Management (IFM) on Non-Federal U.S. Forestlands | Blue Source | 275,041 | 108,850 | Not ARB Eligible | No | B |
 | ACR114 | GreenTrees ACRE (Advanced Carbon Restored Ecosystem) | Forest Carbon | UNITED STATES OF AMERICA | Mississippi Alluvial Valley | Registered | American Carbon Registry | Afforestation and Reforestation of Degraded Lands | GreenTrees, LLC | 6,268,282 | 3,451,885 | Not ARB Eligible | Yes | BB |

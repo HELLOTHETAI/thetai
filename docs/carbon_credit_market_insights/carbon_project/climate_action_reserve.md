@@ -7,11 +7,14 @@ grand_parent: Carbon Credit Market Insights
 ---
 
 # Carbon Project (Climate Action Reserve)
+---
 
 **Interface Name:** getClimateActionReserveRegisteredProject
 
 **Description:** Get the detailed information of carbon projects registered in Climate Action Reserve registry
 
+
+**Output Parameters**
 | Field | Type | Description |
 |:---|:---|:---|
 | Project ID | String | Unique identifier code for the project |
@@ -32,7 +35,7 @@ grand_parent: Carbon Credit Market Insights
 
 **Sample Data**
 
-| Project ID | Project Name | Project Type | Country | Location | Project Status | Current Registry | Registration Date | Methodology | Developer | Credits Issued to Project | Total Retired | Total Cancelled | ARB Project Status | Corsia Qualified | BeZero Carbon Rating |
+| Project ID | <span style="display: inline-block; width:150px">Project Name</span> | Project Type | Country | Location | Project Status | Current Registry | Registration Date | Methodology | Developer | Credits Issued to Project | Total Retired | Total Cancelled | ARB Project Status | Corsia Qualified | BeZero Carbon Rating |
 |:------------|:--------------|:--------------|:---------|:--------|:----------------|:------------------|:-------------------|:-------------|-----------|:----------------------------|:---------------|:-----------------|:------------------------------------|:----------------------|:----------------------|
 | CAR639 | El Dorado Nitrogen, LP - Nitrous Oxide Abatement Project | Nitric Acid N2O- Secondary Catalyst | UNITED STATES OF AMERICA | Chambers County; near Baytown | Registered | Climate Action Reserve | 2010-12-23 | Not provided | LSB Industries, Inc. | 9,078,287 | 8,711,778 | 0 | Not ARB Eligible | No | A |
 | CAR1261 | May Ranch Avoided Grassland Conversion | Avoided Grassland Conversion | UNITED STATES OF AMERICA | Prowers County, CO; NE of Lamar, CO | Registered | Climate Action Reserve | 2018-06-22 | Not provided | Ducks Unlimited, Inc. | 57,750 | 37,345 | 0 | Not ARB Eligible | No | BB |
