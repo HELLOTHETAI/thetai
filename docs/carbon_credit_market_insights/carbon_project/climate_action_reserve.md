@@ -15,6 +15,7 @@ grand_parent: Carbon Credit Market Insights
 
 
 **Output Parameters**
+
 | Field | Type | Description |
 |:---|:---|:---|
 | Project ID | String | Unique identifier code for the project |
