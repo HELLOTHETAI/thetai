@@ -11,8 +11,7 @@ grand_parent: Carbon Credit Market Insights
 
 **Interface Name:** getVerraRegisteredProject
 
-**Description:** :Get the detailed information of carbon projects registered in Verra registry. This API is used to query the detailed data of carbon projects registered in Verra carbon registry, including project ID, name, type, country, region etc.
-
+**Description:** :Get the detailed information of carbon projects registered in Verra registry.
 
 **Output Parameters**
 
