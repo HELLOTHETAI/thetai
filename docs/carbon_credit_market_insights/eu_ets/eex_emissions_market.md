@@ -6,7 +6,7 @@ parent: European Union Emissions Trading System (EU ETS)
 grand_parent: Carbon Credit Market Insights
 ---
 
-## Primary Market Auction
+# EEX Emissions Primary Market Auction
 ---
 
 **Interface Name:** EEX Emissions Primary Market Auction
