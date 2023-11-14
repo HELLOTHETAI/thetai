@@ -2,7 +2,7 @@
 layout: default
 title: Climate Action Reserve
 nav_order: 4
-parent: Carbon Project (碳项目)
+parent: Carbon Project
 grand_parent: Carbon Credit Market Insights
 ---
 

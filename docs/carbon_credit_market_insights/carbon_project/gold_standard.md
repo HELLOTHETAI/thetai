@@ -2,7 +2,7 @@
 layout: default
 title: Gold Standard
 nav_order: 2
-parent: Carbon Project (碳项目)
+parent: Carbon Project
 grand_parent: Carbon Credit Market Insights
 ---
 
