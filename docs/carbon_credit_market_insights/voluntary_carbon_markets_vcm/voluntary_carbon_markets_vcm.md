@@ -1,7 +1,7 @@
 ---
 layout: default
-title: EEX Emission Market
-nav_order: 2
+title: Voluntary Carbon Markets (VCM)
+nav_order: 3
 has_children: true
 parent: Carbon Credit Market Insights
 ---
