@@ -9,7 +9,7 @@ grand_parent: Carbon Credit Market Insights
 # CBL Global Emissions Offset Futures
 ---
 
-**Interface:** Name: CBL GEO Futures 
+**Interface Name:** CBL GEO Futures 
 
 **Description:** This API provides real-time market data for the CBL Global Emissions Offset (GEO) futures contracts traded on Xpansiv exchange.
 
@@ -22,7 +22,7 @@ grand_parent: Carbon Credit Market Insights
 | Open | Float | The opening price of the contract for the session |
 | High | Float | The highest traded price of the contract during the session |
 | Low | Float | The lowest traded price of the contract during the session |
-| Vol | Float | The total volume of contracts traded during the session |
+| Vol. | Float | The total volume of contracts traded during the session |
 | Change % | Float | The percentage change in closing price compared to previous session's close |
 
 **Sample Data**
