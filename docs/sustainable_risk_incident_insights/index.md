@@ -3,7 +3,7 @@ layout: default
 title: Sustainable Risk Incident Insights
 nav_order: 2
 has_children: true
-permalink: /docs/esg-related_controversial_event_information
+permalink: /docs/sustainable_risk_incident_insights
 ---
 
 # Sustainable Risk Incident Insights
