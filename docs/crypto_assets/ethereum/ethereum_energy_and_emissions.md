@@ -10,7 +10,7 @@ grand_parent: Crypto Assets - Energy and Emissions Data
 # Ethereum Energy and Emissions
 ---
 
-**Interface** Name: Ethereum Energy and Emissions Metrics
+**Interface Name:** Ethereum Energy and Emissions Metrics
 
 **Description:** This API provides data on the energy consumption and carbon footprint of the Ethereum network, broken down per unit of gas used for transactions.
 
